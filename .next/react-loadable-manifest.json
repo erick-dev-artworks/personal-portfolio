@@ -1,0 +1,11 @@
+{
+  "app/page.tsx -> @/pages/Home": {
+    "id": 76664,
+    "files": [
+      "static/chunks/451-747c334fae69867f.js",
+      "static/chunks/680.6a94328078a92b64.js",
+      "static/chunks/193-fefe383ba5a4922e.js",
+      "static/chunks/664.55f2f03faec76626.js"
+    ]
+  }
+}
